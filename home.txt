@@ -1,0 +1,36 @@
+		       	           _____________________________
+				  |			        |
+  			          |     CINEP0LIS UNITY ONE     |
+       		                  |_____________________________|
+
+           __________________________________| MENU |____________________________________
+          | 									         |
+	  |1.Home |  2.Showtiming | 3.Buy Tickets  | 4.Help | 5.Login & Sign up | 6.Exit.|
+  	  |______________________________________________________________________________| 
+				  
+		
+
+		Our Shows->				   
+
+
+|         NOW PLAYING	       |    OPENING THIS WEEK     |                COMING SOON		         |
+| 			       |			  |					         |
+| 1-> Fast  & Furious 8	       | 1-> Molly Monster	  | 1-> Guardians of the Galaxy (Vol.2)	         |
+| 2-> Beauty and the Beast     | 2-> Their Finest	  | 2-> A Dog's Purpose			         |
+| 3-> The Boss Baby	       | 3-> Clash		  | 3-> Alien Day				 |
+| 4-> Get Out                  | 4-> Unforgettable	  | 4-> Mad Max Fury Road:Black & Chrome Edition |
+| 5-> Moana  		       | 5-> Tommorrow		  | 5-> King Arthur: Legends Of Sword	         |
+| 6-> Smurfs: The Lost Village | 6-> Somewhere Beautiful  |					         |
+
+	
+	
+|                TRENDING NOW			 |
+|					     	 |
+| #1.THE FATE OF THE FURIOUS(Fast  & Furious 8): |
+|    [40% of all tickets sold in last 24 hrs]	 |
+|						 |
+| #2.THE BOSS BABY:				 |
+|    [33% of all tickets sold in last 24 hrs]	 |
+|						 |
+| #3.THE BEAUTY AND THE BEAST:			 |
+|    [28% of all tickets sold in last 24 hrs]	 |

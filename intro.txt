@@ -1,0 +1,19 @@
+     					   _____________________________
+			  		  |			        |
+	    	      			  |       CENTRAL CINEMAX       |
+	    	        		  |_____________________________|
+
+		   __________________________________| MENU |____________________________________
+		  | 										 |
+		  |1.Home |  2.Showtiming | 3.Buy Tickets  | 4.Help | 5.Login & Sign up | 6.Exit.|
+		  |______________________________________________________________________________| 
+
+				
+				Welcome to 'CENTRAL CINEMAX'
+
+				Have Your Choice -> 
+
+
+
+
+This project is made by kamini mehra.

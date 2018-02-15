@@ -1,0 +1,20 @@
+	       	           _____________________________
+			  |			        |
+  			  |     CINEP0LIS UNITY ONE     |
+       		          |_____________________________|
+
+   __________________________________| MENU |____________________________________
+  | 										 |
+  |1.Home |  2.Showtiming | 3.Buy Tickets  | 4.Help | 5.Login & Sign up | 6.Exit.|
+  |______________________________________________________________________________| 
+		
+Select  Movie:
+
+ 1-> Fast  & Furious 8
+ 2-> Beauty and the Beast
+ 3-> The Boss Baby
+ 4-> Get Out
+ 5-> Moana
+ 6-> Smurfs: The Lost Village
+
+(Note:Press 8 to Help & 9 To Exit )
